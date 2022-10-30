@@ -1,0 +1,22 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+}
+.order-details label{
+    font-size: 14px;
+    padding: 5px;
+    font-weight:400;
+
+}
+.order-details div{
+    font-size: 14px;
+    padding:5px !impotrant;
+}
+.checked{
+    color:yellow;
+}
+.search-bar{
+    width: 40%;
+    margin-left: 240px;
+}
